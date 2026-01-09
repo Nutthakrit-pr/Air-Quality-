@@ -1,0 +1,8 @@
+pandas
+requests
+sqlalchemy
+psycopg2-binary
+minio
+streamlit 
+psycopg2-binary 
+sqlalchemy
